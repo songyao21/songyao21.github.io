@@ -1,0 +1,4 @@
+
+The unintended consequence of intermediaries of online microfinance platform
+In a recent paper (with Bryan Bollinger, forthcoming at Quantitative Marketing and Economics), we investigate how the current practice of using intermediaries by online microfinance platforms may cause unintended effects, leading to inflated interest rates for borrowers. We propose an alternative repayment mechanism that can eliminate the negative consequence of intermediaries.
+
