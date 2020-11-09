@@ -1,0 +1,27 @@
+## files to ignore (mostly auxiliary files that latex produces)
+*~
+*#
+*.aux
+*.bbl
+*.blg
+*.out
+*.bak
+*.sav
+*.synctex
+*/temp/*.*
+.DS_Store
+
+writeup/*.log
+
+
+## ignore temp directories and input/output transition files between build and analysis
+build/input/*.*
+build/temp/*.*
+build/output/*.*
+
+analysis/input/*.*
+analysis/temp/*.*
+analysis/output/*/*.*
+analysis/temp/*.*
+
+
