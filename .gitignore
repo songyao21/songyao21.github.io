@@ -25,3 +25,6 @@ analysis/output/*/*.*
 analysis/temp/*.*
 
 
+Public/covid_forecast/.DS_Store
+data/Online_WOM.zip
+data/PathTrack_Ad_data.zip
